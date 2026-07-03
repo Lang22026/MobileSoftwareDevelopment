@@ -1,6 +1,6 @@
 # 自习室预约助手
 
-**GitHub 仓库地址：** `https://github.com/你的用户名/StudyRoomReserve`
+**GitHub 仓库地址：** https://github.com/Lang22026/2025003006-FinalProject
 
 
 ## 1. 项目简介
@@ -261,7 +261,7 @@ UI → 用户事件 → ViewModel → Repository → Room/Network → StateFlow 
 - **特殊权限：** `android.permission.INTERNET`（网络权限）
 
 **运行步骤：**
-1. 克隆仓库：`git clone https://github.com/你的用户名/StudyRoomReserve`
+1. 克隆仓库：`git clone https://github.com/Lang22026/2025003006-FinalProject`
 2. 使用 Android Studio 打开项目
 3. 等待 Gradle 同步完成（建议使用本地 Gradle 分发，避免网络问题）
 4. 连接 Android 模拟器或真机
